@@ -3,5 +3,5 @@ This is a sister resource for a [blog post](http://www.exaptive.com/blog/how-i-m
 
 You'll also note that I've split the nameMap out into a separate file to prevent clutter in the main script.
 
-### Acknowledgment
+### Acknowledgments
 Special thanks to [Waylon Flinn](https://twitter.com/waylonflinn) for his support and tutelage on a project that introduced me to caffe. 
